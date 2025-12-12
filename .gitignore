@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# uv
+.uv/
+.uv-cache/
+
+# Index + model files
+*.index
+id_map.pkl
+
+# Data
+*.csv
+*.jsonl
+
+# Notebook (if any)
+*.ipynb_checkpoints/
